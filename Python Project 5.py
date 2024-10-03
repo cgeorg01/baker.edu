@@ -45,7 +45,7 @@ def main():
         print('Enter 1 to Add a new vehicle\n'
               'Enter 2 to Remove a vehicle\n'
               'Enter 3 to View list of vehicle\n'
-              'Enter 4 to Exit')
+              'Enter 4 to Exit\n')
 
         task = input('What would you like to do? ')
 
